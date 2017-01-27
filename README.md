@@ -1,5 +1,7 @@
 © Copyright 2014 Mission Aviation Fellowship
+
 Project   : Weather Web Application / Weather Update
+
 Author    : Elliott Stoddard
 
 This application downloads weather data from the Open Weather Map API 
