@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CreateScheduledTask.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Description" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Updates the weather data in a JSON file for use by JS scripts on web pages.</Value>
+    </Setting>
+    <Setting Name="AppFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WeatherUpdate.exe</Value>
+    </Setting>
+    <Setting Name="AppFriendlyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Weather Data Update</Value>
+    </Setting>
+    <Setting Name="sharepointUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="serverDataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="siteDataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
